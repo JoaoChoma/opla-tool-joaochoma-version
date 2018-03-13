@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.grails.profiles</groupId>
+  <artifactId>plugin</artifactId>
+  <version>3.1.9</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.grails.profiles</groupId>
+      <artifactId>base</artifactId>
+      <version>3.1.9</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+  <name>Grails Profiles</name>
+  <description>A collection of profiles that extend Grails and provide additional development environment functionality</description>
+  <url>https://github.com/grails/grails-profile-repository</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/grails/grails-profile-repository</url>
+    <connection>scm:git@github.com:grails/grails-profile-repository.git</connection>
+    <developerConnection>scm:git@github.com:grails/grails-profile-repository.git</developerConnection>
+  </scm>
+  <issueManagement>
+    <system>Github Issues</system>
+    <url>https://github.com/grails/grails-profile-repository/issues</url>
+  </issueManagement>
+  <developers>
+    <developer>
+      <id>graemerocher</id>
+      <name>Graeme Rocher</name>
+    </developer>
+  </developers>
+</project>

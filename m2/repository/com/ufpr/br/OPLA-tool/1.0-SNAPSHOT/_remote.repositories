@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 13 13:13:58 BRT 2018
+OPLA-tool-1.0-SNAPSHOT.jar>=
+OPLA-tool-1.0-SNAPSHOT-jar-with-dependencies.jar>=
+OPLA-tool-1.0-SNAPSHOT.pom>=
